@@ -1,3 +1,7 @@
+## 1.4.3
+
+- Android: Update ffi dependency
+
 ## 1.4.2
 
 - Web: Resolve package_name
